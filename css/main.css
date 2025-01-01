@@ -45,7 +45,7 @@ body{
 	padding-bottom: 1vw;}
 
 .contact_img{
-	height:1.5vw;
+	height:1.8vw;
 	margin-left: 3vw;
 	margin-right: 1vw;
 	display:inline-block; 
@@ -58,7 +58,7 @@ body{
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	font-size: 0.6vw;}
+	font-size: 0.8vw;}
 
 .contact_text:hover{
 	text-decoration: underline;}
