@@ -35,17 +35,17 @@ body{
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	font-size: 2vw;
+	font-size: 1.5vw;
 	padding-top: 1vw;
 	padding-bottom: 3vw;}
 
 .contact{
 	width: 100%;
-	padding-top: 1vw;
+	padding-top: 2vw;
 	padding-bottom: 1vw;}
 
 .contact_img{
-	height:2vw;
+	height:1.5vw;
 	margin-left: 3vw;
 	margin-right: 1vw;
 	display:inline-block; 
@@ -58,7 +58,7 @@ body{
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
-	font-size: 1vw;}
+	font-size: 0.6vw;}
 
 .contact_text:hover{
 	text-decoration: underline;}
